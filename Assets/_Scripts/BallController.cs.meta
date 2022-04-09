@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 50a3b9870e7991e4a9539e9dda1b8426
+timeCreated: 1497634281
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - particle: {instanceID: 0}
+  - _as: {instanceID: 0}
+  - collisionSound: {fileID: 8300000, guid: e6423bd4ffdd06a47a196bd041abfd70, type: 3}
+  - fallSound: {fileID: 8300000, guid: 0b657a5b33e95994f8b3ed20c6e19906, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
