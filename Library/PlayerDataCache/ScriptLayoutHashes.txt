@@ -1,6 +1,6 @@
 PSP2
 PlayerPath?
-C:/Users/Maknollram/Documents/Zigzag/vitzag
+C:/Users/Maknollram/Documents/vitzag/vitzag
 SceneListBegin?
 Assets/_Scenes/Level1.unity
 SceneListEnd?
